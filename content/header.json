@@ -1,7 +1,8 @@
 {
   "marketing_stripe": {
     "text": "♡ Use #PRIMEIRACOMPRA para garantir 10%OFF na sua 1ª vez por aqui ♡",
-    "link": "/"
+    "link": "/",
+    "background": "#f28875"
   },
   "contacts_stripe": {
     "pages": [],
