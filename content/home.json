@@ -37,6 +37,70 @@
       "headless": false,
       "limit": 12,
       "page": 1
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": null
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/29337-pc-6-.png",
+          "link": "/masculinas"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/29337-pc-5-.png",
+          "link": "/aneis"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/29337-pc-4-.png",
+          "link": "/pulseiras"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/29337-pc-3-.png",
+          "link": "/colares"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/29337-pc-2-.png",
+          "alt": "",
+          "link": "/brincos"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/29337-pc-1-.png",
+          "alt": "",
+          "link": "/tornozeleiras"
+        }
+      ]
     }
   ]
 }
