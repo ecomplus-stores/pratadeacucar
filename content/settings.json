@@ -1,5 +1,5 @@
 {
-  "domain": "pratadeacucar.netlify.app",
+  "domain": "pratadeacucar.com",
   "currency_symbol": "R$",
   "primary_color": "#00b2b2",
   "theme": {
@@ -7,6 +7,7 @@
     "custom": "_"
   },
   "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/pratadeacucar",
   "logo": "/img/uploads/29337-logo_prata-de-acucar_site_-300x100.png",
   "name": "Prata de Açúcar",
   "short_name": "Prata de Açúcar",
@@ -21,6 +22,5 @@
   "icon": "/img/uploads/29337-logo_prata-de-acucar_site_-300x100.png",
   "store_id": 29337,
   "description": "PRATA DE AÇÚCAR",
-  "repository": "ecomplus-stores/pratadeacucar",
   "large_icon": "/img/uploads/29337-logo_prata-de-acucar_site_-300x100.png"
 }
