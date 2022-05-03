@@ -39,11 +39,11 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": "625dd2733da6d37bc2e82dce:collections:As + Vendidas:/maisvendidas",
-      "sort": "offers",
-      "title": "",
+      "collection_id": "627163563da6d37bc21ce4fb:collections:Dia das Mães:/dia-das-maes",
+      "sort": "lowest_price",
+      "title": "Dias das mães",
       "headless": false,
-      "limit": 12,
+      "limit": 24,
       "page": 1
     },
     {
