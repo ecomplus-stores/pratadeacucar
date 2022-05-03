@@ -119,7 +119,7 @@
       "page": 1,
       "sort": "sales",
       "collection_id": "620b2c797963422eee03019b:categories:Anéis Solitários:/aneis-solitarios",
-      "headless": true
+      "headless": false
     },
     {
       "type": "collection-shelf",
