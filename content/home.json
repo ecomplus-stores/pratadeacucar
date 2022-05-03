@@ -139,7 +139,9 @@
       "limit": 24,
       "page": 1,
       "collection_id": "61ea2b610c7c7272251aaacc:categories:Piercings:/piercings",
-      "sort": "views"
+      "sort": "views",
+      "link": "https://www.pratadeacucar.com/piercings",
+      "title": "Piercings"
     }
   ]
 }
