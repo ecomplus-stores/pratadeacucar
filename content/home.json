@@ -108,21 +108,24 @@
       "sort": "highest_price"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1
-    },
-    {
       "type": "responsive-banner",
       "img": "/img/uploads/29337-anel-solitario-1-.png",
       "link": "/aneis-solitarios"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "sort": "sales",
+      "collection_id": "620b2c797963422eee03019b:categories:Anéis Solitários:/aneis-solitarios",
+      "headless": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1
     },
     {
       "type": "collection-shelf",
