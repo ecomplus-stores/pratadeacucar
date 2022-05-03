@@ -124,8 +124,10 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 12,
-      "page": 1
+      "limit": 24,
+      "page": 1,
+      "collection_id": "625dd2733da6d37bc2e82dce:collections:As + Vendidas:/maisvendidas",
+      "sort": "sales"
     },
     {
       "type": "collection-shelf",
