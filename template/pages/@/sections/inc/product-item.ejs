@@ -16,7 +16,7 @@ if (imgObj) {
   }]
 }
 %>
-
+<% if (_.ecomUtils.inStock(itemData)) { %>
 <article class="product-item" data-product="<%= JSON.stringify(itemData) %>">
   <div
     class="product-card"
@@ -93,3 +93,4 @@ if (imgObj) {
     _, opt, field: 'productItemAppend'
   }) %>
 </article>
+<% } %>
