@@ -1,0 +1,23 @@
+{
+  "title": "Tamanhos de correntes e  colares",
+  "body": "Referência para tamanho de colares e correntes femininos e masculinos:",
+  "sections": [
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/29337-tam-de-colar-feminino.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/29337-tam-de-colar-masculino.png"
+        }
+      ]
+    }
+  ]
+}
