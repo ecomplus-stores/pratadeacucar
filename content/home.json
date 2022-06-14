@@ -1,18 +1,12 @@
 {
-  "meta_title": "",
-  "meta_description": "",
+  "meta_title": "Conjuntos de Joias de Prata",
+  "meta_description": "Conjuntos de Joias de Prata",
   "sections": [
     {
       "type": "banner-slider",
       "autoplay": 8000,
       "full_width": true,
       "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner_dia-dos-namorados.png",
-          "link": "https://www.pratadeacucar.com/diadosnamorados"
-        },
         {
           "start": "",
           "end": "",
@@ -39,29 +33,6 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 24,
-      "page": 1,
-      "collection_id": "62a0bb6fac0cb4200f0bb4bc:collections:Dia dos Namorados:/diadosnamorados",
-      "sort": "news",
-      "title": "Dia dos Namorados"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 24,
-      "page": 1,
-      "sort": "sales",
-      "collection_id": "620b2c797963422eee03019b:categories:Anéis Solitários:/aneis-solitarios",
-      "headless": false
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/29337-anel-solitario-1-.png",
-      "link": "/aneis-solitarios"
-    },
-    {
-      "type": "collection-shelf",
       "shuffle": false,
       "limit": 24,
       "page": 1,
@@ -73,10 +44,10 @@
       "shuffle": false,
       "limit": 24,
       "page": 1,
-      "collection_id": "625dd2733da6d37bc2e82dce:collections:As + Vendidas:/maisvendidas",
+      "collection_id": "62a0bfcaac0cb4200f0bc0f5:categories:Conjuntos:/conjuntos",
       "sort": "sales",
-      "link": "https://www.pratadeacucar.com/maisvendidas",
-      "title": "+ Vendidas & Desejadas"
+      "title": "Conjuntos & Combos Promocionais",
+      "link": "Conjuntos & Kits Promocionais"
     },
     {
       "type": "banner-slider",
@@ -125,13 +96,13 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": "61f44b0a7963422eeedae3a1:categories:Masculinas:/masculinas",
-      "sort": "highest_price",
-      "title": "Masculinos",
-      "headless": false,
+      "shuffle": false,
       "limit": 24,
-      "page": 1
+      "page": 1,
+      "collection_id": "625dd2733da6d37bc2e82dce:collections:As + Vendidas:/maisvendidas",
+      "sort": "sales",
+      "link": "https://www.pratadeacucar.com/maisvendidas",
+      "title": "+ Vendidas & Desejadas"
     },
     {
       "type": "collection-shelf",
@@ -142,6 +113,20 @@
       "sort": "highest_price"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/29337-anel-solitario-1-.png",
+      "link": "/aneis-solitarios"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "sort": "sales",
+      "collection_id": "620b2c797963422eee03019b:categories:Anéis Solitários:/aneis-solitarios",
+      "headless": false
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 24,
@@ -150,6 +135,16 @@
       "sort": "sales",
       "link": "https://www.pratadeacucar.com/piercings",
       "title": "Piercings & Argolinhas"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "collection_id": "61f44b0a7963422eeedae3a1:categories:Masculinas:/masculinas",
+      "sort": "highest_price",
+      "title": "Masculinos",
+      "headless": false,
+      "limit": 24,
+      "page": 1
     }
   ]
 }
