@@ -40,25 +40,19 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 24,
+      "limit": 21,
       "page": 1,
-      "collection_id": "625dd2643da6d37bc2e82d73:collections:Perfeitas  &  Preferidas:/perfeitasepreferidas",
-      "sort": "sales"
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "news"
+      "sort": "news",
+      "title": "NEWS & Lançamentos",
+      "link": "NEWS & Lançamentos"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 24,
       "page": 1,
-      "collection_id": "62a0bfcaac0cb4200f0bc0f5:categories:Conjuntos:/conjuntos",
-      "sort": "sales",
-      "title": "Conjuntos & Combos Promocionais",
-      "link": "Conjuntos & Kits Promocionais"
+      "collection_id": "625dd2643da6d37bc2e82d73:collections:Perfeitas  &  Preferidas:/perfeitasepreferidas",
+      "sort": "sales"
     },
     {
       "type": "banner-slider",
@@ -110,6 +104,16 @@
       "shuffle": false,
       "limit": 24,
       "page": 1,
+      "collection_id": "61ea2b610c7c7272251aaacc:categories:Piercings:/piercings",
+      "sort": "sales",
+      "link": "https://www.pratadeacucar.com/piercings",
+      "title": "Piercings & Argolinhas"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
       "collection_id": "625dd2733da6d37bc2e82dce:collections:As + Vendidas:/maisvendidas",
       "sort": "sales",
       "link": "https://www.pratadeacucar.com/maisvendidas",
@@ -120,8 +124,10 @@
       "shuffle": false,
       "limit": 24,
       "page": 1,
-      "collection_id": "625c6a623da6d37bc2e418bb:collections:PROMO & Última chance:/promoultimachance",
-      "sort": "highest_price"
+      "sort": "sales",
+      "collection_id": "620b2c797963422eee03019b:categories:Anéis Solitários:/aneis-solitarios",
+      "headless": false,
+      "title": "Anéis & Aparadores"
     },
     {
       "type": "responsive-banner",
@@ -133,26 +139,25 @@
       "shuffle": false,
       "limit": 24,
       "page": 1,
+      "collection_id": "62a0bfcaac0cb4200f0bc0f5:categories:Conjuntos:/conjuntos",
       "sort": "sales",
-      "collection_id": "620b2c797963422eee03019b:categories:Anéis Solitários:/aneis-solitarios",
-      "headless": false
+      "title": "Conjuntos & Combos Promocionais",
+      "link": "Conjuntos & Kits Promocionais"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 24,
       "page": 1,
-      "collection_id": "61ea2b610c7c7272251aaacc:categories:Piercings:/piercings",
-      "sort": "sales",
-      "link": "https://www.pratadeacucar.com/piercings",
-      "title": "Piercings & Argolinhas"
+      "collection_id": "625c6a623da6d37bc2e418bb:collections:PROMO & Última chance:/promoultimachance",
+      "sort": "offers"
     },
     {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "61f44b0a7963422eeedae3a1:categories:Masculinas:/masculinas",
       "sort": "highest_price",
-      "title": "Masculinos",
+      "title": "Masculinas & Brabas",
       "headless": false,
       "limit": 24,
       "page": 1
