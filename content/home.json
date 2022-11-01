@@ -1,6 +1,6 @@
 {
-  "meta_title": "Joias de Prata 925",
-  "meta_description": "Joias de Prata 925",
+  "meta_title": "NEWS & Lançamentos",
+  "meta_description": "NEWS & Lançamentos",
   "sections": [
     {
       "type": "banner-slider",
@@ -39,7 +39,7 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 21,
       "page": 1,
       "sort": "news",
