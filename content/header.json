@@ -1,19 +1,21 @@
 {
   "marketing_stripe": {
-    "text": "♡ Use #PRIMEIRACOMPRA para garantir 10%OFF na sua 1ª vez por aqui ♡",
-    "link": "/",
+    "text": "♡ Perfeita com P de Prata de Açúcar ♡",
+    "link": "",
     "background": "#f28875"
   },
   "contacts_stripe": {
     "pages": [],
-    "phone_wpp": false,
-    "socials": false
+    "phone_wpp": true,
+    "socials": true
   },
   "categories_list": {
     "featured": [],
     "random": 6,
     "full_width": false
   },
-  "desktop_megamenu": false,
-  "search_input": true
+  "desktop_megamenu": true,
+  "search_input": true,
+  "full_width_submenu": true,
+  "alphabetical_order_submenu": true
 }
