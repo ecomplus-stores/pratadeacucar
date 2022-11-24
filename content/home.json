@@ -1,6 +1,6 @@
 {
-  "meta_title": "NEWS & Lançamentos",
-  "meta_description": "NEWS & Lançamentos",
+  "meta_title": "BLACK Prata de Açúcar ",
+  "meta_description": "BLACK Prata de Açúcar ",
   "sections": [
     {
       "type": "banner-slider",
@@ -8,28 +8,11 @@
       "full_width": true,
       "slides": [
         {
-          "start": "2022-08-05T14:54:32.121Z",
-          "end": "",
-          "img": "/img/uploads/banners_houseinf.png",
-          "link": "https://www.pratadeacucar.com/house-influencers"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/29337-2.png",
-          "link": "https://www.pratadeacucar.com/promo--ultima-chance"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/29337-as-mais-vendias-banner.png",
-          "link": "https://www.pratadeacucar.com/maisvendidas"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/29337-colecao-especial.png",
-          "link": "https://www.pratadeacucar.com/perfeitasepreferidas"
+          "start": "2022-11-25T02:50:20.277Z",
+          "end": "2022-11-28T02:59:00.000Z",
+          "img": "/img/uploads/banner-site-branco.png",
+          "link": "https://www.pratadeacucar.com/black-de-acucar",
+          "alt": "https://www.pratadeacucar.com/black-de-acucar"
         }
       ]
     },
