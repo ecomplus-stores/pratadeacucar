@@ -34,12 +34,12 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": true,
+      "shuffle": false,
       "limit": 21,
       "page": 1,
       "sort": "news",
       "title": "NEWS & Lançamentos",
-      "link": "NEWS & Lançamentos",
+      "link": "",
       "collection_id": "6380092c73321213f8ef3740:categories:TUDOH TUDOH:/tudoh-tudoh"
     },
     {
