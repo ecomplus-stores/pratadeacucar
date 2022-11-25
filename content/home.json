@@ -39,15 +39,13 @@
       "page": 1,
       "sort": "news",
       "title": "NEWS & Lançamentos",
-      "link": "NEWS & Lançamentos"
+      "link": "NEWS & Lançamentos",
+      "collection_id": "6380092c73321213f8ef3740:categories:TUDOH TUDOH:/tudoh-tudoh"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 24,
-      "page": 1,
-      "collection_id": "625dd2643da6d37bc2e82d73:collections:Perfeitas  &  Preferidas:/perfeitasepreferidas",
-      "sort": "sales"
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "offers"
     },
     {
       "type": "banner-slider",
@@ -93,6 +91,14 @@
           "link": "/tornozeleiras"
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "6380092c73321213f8ef3740:categories:TUDOH TUDOH:/tudoh-tudoh",
+      "sort": "sales"
     },
     {
       "type": "collection-shelf",
@@ -156,6 +162,16 @@
       "headless": false,
       "limit": 24,
       "page": 1
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 21,
+      "page": 1,
+      "collection_id": "638001ba73321213f8ef2676:collections:BLACK DE AÇÚCAR:/black-de-acucar-colecao",
+      "sort": "offers",
+      "title": "BLACK de AÇÚCAR",
+      "link": "BLACK de AÇÚCAR"
     }
   ]
 }
