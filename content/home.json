@@ -1,25 +1,12 @@
 {
-  "meta_title": "BLACK Prata de Açúcar ",
-  "meta_description": "BLACK Prata de Açúcar ",
+  "meta_title": "Prata de Açúcar ",
+  "meta_description": "Prata de Açúcar ",
   "sections": [
     {
       "type": "banner-slider",
       "autoplay": 8000,
       "full_width": true,
       "slides": [
-        {
-          "start": "2022-11-25T02:50:20.277Z",
-          "end": "2022-11-28T02:59:00.000Z",
-          "img": "/img/uploads/banner-site-branco.png",
-          "link": "https://www.pratadeacucar.com/black-de-acucar-categoria",
-          "alt": ""
-        },
-        {
-          "start": "2022-11-25T02:50:03.848Z",
-          "end": "2022-11-28T02:59:00.000Z",
-          "img": "/img/uploads/banner-site-preto.png",
-          "link": "https://www.pratadeacucar.com/black-de-acucar-categoria"
-        },
         {
           "start": "",
           "end": "",
@@ -37,19 +24,18 @@
       "shuffle": false,
       "limit": 21,
       "page": 1,
-      "collection_id": "626c65943da6d37bc215dbc8:categories:BLACK DE AÇÚCAR:/black-de-acucar-categoria",
-      "sort": "views",
-      "title": "VEM CONFERIR !"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 21,
-      "page": 1,
       "sort": "news",
       "title": "NEWS & Lançamentos",
       "link": "",
       "collection_id": null
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "6380092c73321213f8ef3740:categories:TUDOH TUDOH:/tudoh-tudoh",
+      "sort": "sales"
     },
     {
       "type": "banner-slider",
@@ -101,18 +87,25 @@
       "shuffle": false,
       "limit": 24,
       "page": 1,
-      "collection_id": "6380092c73321213f8ef3740:categories:TUDOH TUDOH:/tudoh-tudoh",
-      "sort": "sales"
+      "collection_id": "62a0bfcaac0cb4200f0bc0f5:categories:Conjuntos:/conjuntos",
+      "sort": "sales",
+      "title": "Conjuntos & Combos Promocionais",
+      "link": "Conjuntos & Kits Promocionais"
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
+      "collection_id": "61f44b0a7963422eeedae3a1:categories:Masculinas:/masculinas",
+      "sort": "highest_price",
+      "title": "Masculinas",
+      "headless": false,
       "limit": 24,
-      "page": 1,
-      "collection_id": "61ea2b610c7c7272251aaacc:categories:Piercings:/piercings",
-      "sort": "news",
-      "link": "https://www.pratadeacucar.com/piercings",
-      "title": "Piercings & Argolinhas"
+      "page": 1
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/29337-anel-solitario-1-.png",
+      "link": "/aneis-solitarios"
     },
     {
       "type": "collection-shelf",
@@ -125,29 +118,14 @@
       "title": "Anéis & Aparadores"
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/29337-anel-solitario-1-.png",
-      "link": "/aneis-solitarios"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 24,
       "page": 1,
-      "collection_id": "62a0bfcaac0cb4200f0bc0f5:categories:Conjuntos:/conjuntos",
-      "sort": "sales",
-      "title": "Conjuntos & Combos Promocionais",
-      "link": "Conjuntos & Kits Promocionais"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": "61f44b0a7963422eeedae3a1:categories:Masculinas:/masculinas",
+      "collection_id": "61ea2b610c7c7272251aaacc:categories:Piercings:/piercings",
       "sort": "highest_price",
-      "title": "Masculinas & Brabas",
-      "headless": false,
-      "limit": 24,
-      "page": 1
+      "link": "https://www.pratadeacucar.com/piercings",
+      "title": "Piercings & Argolinhas"
     }
   ]
 }
