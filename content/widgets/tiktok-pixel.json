@@ -5,7 +5,8 @@
   "enableCheckout": true,
   "options": {
     "tiktokPixelId": "7142271696286793730",
-    "debug": false
+    "debug": false,
+    "partytown": false
   },
   "headAppend": "src/append/head"
 }
