@@ -14,7 +14,7 @@
     "random": 6,
     "full_width": false
   },
-  "desktop_megamenu": true,
+  "desktop_megamenu": false,
   "search_input": true,
   "full_width_submenu": true,
   "alphabetical_order_submenu": true
