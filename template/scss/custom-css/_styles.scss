@@ -2,3 +2,13 @@
 .product-card--inactive {
   display: none !important;
 }
+@media(max-width: 767px) {
+  #desktop {
+    display: none !important;
+  }
+}
+@media(min-width: 767px) {
+  #mobile {
+    display: none !important;
+  }
+}
