@@ -35,7 +35,66 @@ if (slides && slides.length) {
   }
   %>
 
-  <% if (slides.length < 4) { %>
+  <% if (slides.length > 4) { %>
+    <div class="<%- className %> d-lg-none" style="<%- style %>">
+      <div class="glide" data-autoplay="<%= opt.autoplay %>">
+        <div class="glide__track" data-glide-el="track">
+          <ul class="glide__slides banner-slider__slides">
+            <% for (let i = 0; i < slides.length; i++) { %>
+              <li class="glide__slide">
+                <%- await include('@/sections/inc/banner', {
+                  _, opt: { ...slides[i], height_auto: true, sync_load: i === 0 }
+                }) %>
+              </li>
+            <% } %>
+          </ul>
+  
+          <% if (slides.length > 1) { %>
+            <div class="glide__arrows d-none d-md-block" data-glide-el="controls">
+              <button
+                class="btn glide__arrow glide__arrow--left"
+                data-glide-dir="<"
+                aria-label="<%= _.dictionary('previous') %>"
+              >
+                <i class="i-chevron-left"></i>
+              </button>
+              <button
+                class="btn glide__arrow glide__arrow--right"
+                data-glide-dir=">"
+                aria-label="<%= _.dictionary('next') %>"
+              >
+                <i class="i-chevron-right"></i>
+              </button>
+            </div>
+  
+            <div class="glide__bullets" data-glide-el="controls[nav]">
+              <% slides.forEach((_, index) => { %>
+                <button
+                  class="glide__bullet"
+                  data-glide-dir="=<%= index %>"
+                  aria-label="<%= `${(index + 1)}° banner` %>"
+                ></button>
+              <% }) %>
+            </div>
+          <% } %>
+        </div>
+      </div>
+    </div>
+    <% const colSize = Math.ceil(12 / opt.slides.length) %>
+      <div div="desktop" class="banners-grid my-3 my-md-4 my-lg-5 d-none d-md-inline">
+        <div class="container">
+          <div class="row">
+            <% for (let i = 0; i < opt.slides.length; i++) { %>
+              <div class="col-12 col-lg-<%= colSize %> mb-3 mb-lg-0">
+                <%- await include('@/sections/inc/banner', {
+                  _, opt: { ...slides[i], height_auto: true, sync_load: i === 0 }
+                }) %>
+              </div>
+            <% } %>
+          </div>
+        </div>
+      </div>
+  <% } else { %>
     <div class="<%- className %>" style="<%- style %>">
       <div class="glide" data-autoplay="<%= opt.autoplay %>">
         <div class="glide__track" data-glide-el="track">
@@ -80,23 +139,5 @@ if (slides && slides.length) {
         </div>
       </div>
     </div>
-  <% } else { %>
-    <% if (Array.isArray(opt.slides) && opt.slides.length) { %>
-      <% const colSize = Math.ceil(12 / opt.slides.length) %>
-      <div div="desktop" class="banners-grid my-3 my-md-4 my-lg-5">
-        <div class="container">
-          <div class="row">
-            <% for (let i = 0; i < opt.slides.length; i++) { %>
-              <div class="col-12 col-lg-<%= colSize %> mb-3 mb-lg-0">
-                <%- await include('@/sections/inc/banner', {
-                  _, opt: { ...slides[i], height_auto: true, sync_load: i === 0 }
-                }) %>
-              </div>
-            <% } %>
-          </div>
-        </div>
-      </div>
-    <% } %>
-    
   <% } %>
 <% } %>
