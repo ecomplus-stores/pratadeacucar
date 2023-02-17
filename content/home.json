@@ -45,40 +45,38 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/29337-pc-6-.png",
-          "link": "/masculinas"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/29337-pc-5-.png",
-          "link": "/aneis"
+          "img": "/img/uploads/29337-pc-3-.png",
+          "link": "https://www.pratadeacucar.com/colares"
         },
         {
           "start": "",
           "end": "",
           "img": "/img/uploads/29337-pc-4-.png",
-          "link": "/pulseiras"
+          "link": "https://www.pratadeacucar.com/pulseiras"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/29337-pc-3-.png",
-          "link": "/colares"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/29337-pc-2-.png",
-          "alt": "",
-          "link": "/brincos"
+          "img": "/img/uploads/29337-pc-6-.png",
+          "link": "https://www.pratadeacucar.com/masculinas"
         },
         {
           "start": "",
           "end": "",
           "img": "/img/uploads/29337-pc-1-.png",
-          "alt": "",
-          "link": "/tornozeleiras"
+          "link": "https://www.pratadeacucar.com/tornozeleiras"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/29337-pc-5-.png",
+          "link": "https://www.pratadeacucar.com/aneis"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/29337-pc-2-.png",
+          "link": "https://www.pratadeacucar.com/brincos"
         }
       ]
     },
