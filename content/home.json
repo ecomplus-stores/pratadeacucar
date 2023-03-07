@@ -10,8 +10,14 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/joias-em-prata-925.png",
+          "img": "/img/uploads/banner_principal_-2-.png",
           "link": "https://www.pratadeacucar.com/perfeitasepreferidas"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner_principal-1-_compressed.png",
+          "link": "https://www.pratadeacucar.com/tudoh-tudoh"
         }
       ]
     },
@@ -45,38 +51,44 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/colares.png",
-          "link": "https://www.pratadeacucar.com/colares"
+          "img": "/img/uploads/categoria_colares.png",
+          "link": "https://www.pratadeacucar.com/colares",
+          "mobile_img": "/img/uploads/categoria_colares_mobile.png"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/pulseiras.png",
-          "link": "https://www.pratadeacucar.com/pulseiras"
+          "img": "/img/uploads/categoria_pulseiras.png",
+          "link": "https://www.pratadeacucar.com/pulseiras",
+          "mobile_img": "/img/uploads/categoria_pulseiras_mobile.png"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/masculinas.png",
-          "link": "https://www.pratadeacucar.com/masculinas"
+          "img": "/img/uploads/categoria_masculina.png",
+          "link": "https://www.pratadeacucar.com/masculinas",
+          "mobile_img": "/img/uploads/categoria_masculina_mobile.png"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/tornozeleiras.png",
-          "link": "https://www.pratadeacucar.com/tornozeleiras"
+          "img": "/img/uploads/categoria_piercings.png",
+          "link": "https://www.pratadeacucar.com/piercings",
+          "mobile_img": "/img/uploads/categoria_piercings_mobile.png"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/aneis.png",
-          "link": "https://www.pratadeacucar.com/aneis"
+          "img": "/img/uploads/categoria_aneis.png",
+          "link": "https://www.pratadeacucar.com/aneis",
+          "mobile_img": "/img/uploads/categoria_aneis_mobile.png"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/brincos.png",
-          "link": "https://www.pratadeacucar.com/brincos"
+          "img": "/img/uploads/categoria_brincos.png",
+          "link": "https://www.pratadeacucar.com/brincos",
+          "mobile_img": "/img/uploads/categoria_brincos_mobile.png"
         }
       ]
     },
