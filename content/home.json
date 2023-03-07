@@ -36,14 +36,6 @@
       "collection_id": null
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 24,
-      "page": 1,
-      "collection_id": "6380092c73321213f8ef3740:categories:TUDOH TUDOH:/tudoh-tudoh",
-      "sort": "sales"
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
@@ -97,10 +89,23 @@
       "shuffle": false,
       "limit": 24,
       "page": 1,
+      "collection_id": "6380092c73321213f8ef3740:categories:TUDOH TUDOH:/tudoh-tudoh",
+      "sort": "sales"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
       "collection_id": "62a0bfcaac0cb4200f0bc0f5:categories:Conjuntos:/conjuntos",
       "sort": "sales",
       "title": "Conjuntos & Combos Promocionais",
       "link": "Conjuntos & Kits Promocionais"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/banner_promo.png",
+      "link": "https://www.pratadeacucar.com/conjuntos"
     },
     {
       "type": "collection-shelf",
@@ -111,11 +116,6 @@
       "headless": false,
       "limit": 24,
       "page": 1
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/banner_promo.png",
-      "link": "https://www.pratadeacucar.com/conjuntos"
     },
     {
       "type": "collection-shelf",
