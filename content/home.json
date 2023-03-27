@@ -10,19 +10,19 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/bannersite_diaconsumidor-1-1-.png",
+          "img": "/img/uploads/bannersite_diaconsumidor-1-1-.webp",
           "link": "https://www.pratadeacucar.com/promomesconsumidor01"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner_principal_-2-.png",
+          "img": "/img/uploads/banner_principal_-2-.webp",
           "link": "https://www.pratadeacucar.com/perfeitasepreferidas"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner_principal-1-_compressed.png",
+          "img": "/img/uploads/banner_principal-1-_compressed.webp",
           "link": "https://www.pratadeacucar.com/tudoh-tudoh"
         }
       ]
@@ -110,7 +110,7 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/banner_promo.png",
+      "img": "/img/uploads/banner_promo.webp",
       "link": "https://www.pratadeacucar.com/conjuntos"
     },
     {
