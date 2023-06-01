@@ -1,6 +1,6 @@
 {
-  "meta_title": "Prata de Açúcar ",
-  "meta_description": "Prata de Açúcar ",
+  "meta_title": "Prata de Açúcar Dia dos Namorados Joias em prata 925",
+  "meta_description": "Prata de Açúcar Dia dos Namorados Joias em prata 925",
   "sections": [
     {
       "type": "banner-slider",
@@ -18,6 +18,13 @@
           "end": "",
           "img": "/img/uploads/banner_principal-1-_compressed.webp",
           "link": "https://www.pratadeacucar.com/tudoh-tudoh"
+        },
+        {
+          "start": "",
+          "end": "2023-06-13T19:23:26.234Z",
+          "img": "/img/uploads/bannersite_dianamorados.png",
+          "link": "https://www.pratadeacucar.com/dia-dos-namorados",
+          "alt": "https://www.pratadeacucar.com/dia-dos-namorados"
         }
       ]
     },
